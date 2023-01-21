@@ -20,7 +20,7 @@ Animating box with random colors.
 
 ## Project preview:
   
-  <!--![TextAnimation](https://user-images.githubusercontent.com/65191024/212781574-46a6870a-7dfa-476b-abd0-76ea1d3791f8.gif)-->
+  ![mobile](https://user-images.githubusercontent.com/65191024/213829004-814e98ce-ed68-448c-9afc-63d7ecdb7086.gif)
 
 ### Project based on a video by youtuber Frank for study.
 
