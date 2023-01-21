@@ -22,6 +22,4 @@ Animating box with random colors.
   
   ![mobile](https://user-images.githubusercontent.com/65191024/213829004-814e98ce-ed68-448c-9afc-63d7ecdb7086.gif)
 
-### Project based on a video by youtuber Frank for study.
-
 ## <a href="https://thiagocod.github.io/MobileWeb/">Click here for demo<a>
